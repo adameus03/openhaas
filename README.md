@@ -1,4 +1,5 @@
 # openhaas
+### ⚠️ This is a work in progress
 
 ### Overview
 OpenHaaS is an open initiative to create a global platform where the user selects a desired hardware device that they would like to reserve for use in a specified time window, from a worldwide list of available hardware and users "hosting" the hardware. 
